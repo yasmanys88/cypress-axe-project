@@ -1,4 +1,4 @@
-// <reference type="cypress"/>
+/// <reference types="cypress"/>
 describe('Todo application', () => {
     it('should log any accessibility failures', () => {
         cy.visit('http://todomvc.com/examples/react');
