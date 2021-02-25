@@ -1,0 +1,24 @@
+{
+  "name": "cypress-axe-project",
+  "version": "1.0.0",
+  "description": "cypress-axe-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasmanys88/cypress-axe-project.git"
+  },
+  "keywords": [],
+  "author": "Yasmany",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasmanys88/cypress-axe-project/issues"
+  },
+  "homepage": "https://github.com/yasmanys88/cypress-axe-project#readme",
+  "devDependencies": {
+    "cypress": "^6.5.0",
+    "cypress-axe": "^0.12.2"
+  }
+}
